@@ -2,6 +2,9 @@
 
 This repository contains the source code and documentation for **TRACE** (Targeted Reconnaissance for Advanced Content Exploitation), a cybersecurity platform designed to streamline penetration testing workflows through intuitive visualizations, shallow learning algorithms, and automation. TRACE is built to help analysts discover vulnerabilities faster by offering centralized control over reconnaissance tools and AI-generated credential creation.
 
+#### Link to Complete Project:
+https://github.com/SophiaMontenegro/CS4311_TRACE_Alpha_Spring2025
+
 ## ✨ Features
 
 - Web-based platform optimized for real-time, intranet-based testing.
